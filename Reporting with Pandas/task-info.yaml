@@ -1,0 +1,40 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 519
+        length: 483
+        placeholder_text: |-
+          # YOUR CODE
+          # * group original DataFrame by `Year` column
+          # * aggregate group elements to calculate the number of models and mean values of parameters and training tokens by year
+          # * create and return proper styler
+        initial_state:
+          length: 214
+          offset: 519
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8fshjGPxfHMiE+LnepMvaFCCXlWUo7Eimt+Sgo1onAd1sgjLOXoKvFNpwEa9ZrvCfR3yVv24uMy6eYEqKkpBEsPW9h8tLg0MpnVS170D5hqhYTECgRdWgRQ92xEl6JocFztZSLxiQoYBFSrnUeyktn/8NkUF16pAPudMD85OmwwWs4YhzlFOQyUjKHkjV44KAc3BK+cjhpJnUqFuxosyyyJkRJ+qeRnbYIRVI4f9FBY0UkqrFb4ydF2A2KRtJrTQ2K29ueOD/mUHwGDmG6+EZ0BLS0EhHpS2o6brkS04GCLjw3T0i82XlTStix+L5/997BlefBgKo8R/X/NWBasmWiTH3f6TY274D7MNLJ87Uz/BMrPvo7lmVooS/9i1wwB+brWQV/lg5T4MIBd2sQAYx3bCpxAPCe4aJgXSGHk2CUiEuAP22LN/3wChuImg8BA5A51I4RSsgAFUsworjwM0EayYSF2XZ2sSGrl4DhfDDUNlr45h70nXjK4BAPH4rpojW4JbSuhS6XZWovfIFov6Lw==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: report_template.html
+    visible: true
+    learner_created: false
+  - name: report.html
+    visible: true
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 15 Aug 2026 13:05:41 UTC"
+record: -1

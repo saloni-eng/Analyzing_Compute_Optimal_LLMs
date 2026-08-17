@@ -1,0 +1,53 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 810
+        length: 32
+        placeholder_text: "# create linear regression model"
+        initial_state:
+          length: 32
+          offset: 810
+        initialized_from_dependency: false
+        encrypted_possible_answer: /R+BjC19aOHz/mRFeMfsC8EblifEWI6O7N5ugNUI/Xafxfhod7iLhmzb3jn++ZDnCjO3UCc47hgxL2+1jGEY3w==
+        selected: true
+        status: Solved
+      - offset: 878
+        length: 26
+        placeholder_text: "# reshape and log the data"
+        initial_state:
+          length: 26
+          offset: 848
+        initialized_from_dependency: false
+        encrypted_possible_answer: KGcJ024nLlw9u+grgKXXkLpl59c3EsRFrJcNgFNyxWasaL2bAvmKdr7fCLl1o3modahPbQrS1hEA1aaR392UWdNvWsVJopkGcO7p6YuOP3EzsZAd8tvteLpLl5Da679DbAsRxMUK/KuIwHP2nNyqXFbOdkLuxK+HwsJcE2vMkfQjboI/bWfDSJDk+TyX6436
+        selected: false
+        status: Solved
+      - offset: 1024
+        length: 15
+        placeholder_text: "# fit the model"
+        initial_state:
+          length: 15
+          offset: 880
+        initialized_from_dependency: false
+        encrypted_possible_answer: uah10Bi795QII4L9KNgz1NOyAB7X9w5/oRd4b4xc+e0uUHVUFI++yS3292pZtTVN
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: lin_reg_plot.svg
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 15 Aug 2026 12:39:03 UTC"
+record: -1
