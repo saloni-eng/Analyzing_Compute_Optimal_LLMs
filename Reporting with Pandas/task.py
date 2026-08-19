@@ -27,7 +27,8 @@ def year_stats_styler(df):
         'Training tokens': 'mean'
     })
     styler = (models.style.format(precision=2, decimal=".")
-            .apply(highlight_max, props='font-weight:bold', axis=0))
+          .apply(highlight_max, props='font-weight:bold', axis=0))
+
     return styler
 
 

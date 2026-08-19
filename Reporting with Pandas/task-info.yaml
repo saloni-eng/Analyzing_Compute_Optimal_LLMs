@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 519
-        length: 483
+        length: 482
         placeholder_text: |-
           # YOUR CODE
           # * group original DataFrame by `Year` column
@@ -34,7 +34,4 @@ files:
     visible: true
     learner_created: true
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 15 Aug 2026 13:05:41 UTC"
 record: -1

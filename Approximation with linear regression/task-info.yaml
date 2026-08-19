@@ -13,7 +13,7 @@ files:
         encrypted_possible_answer: /R+BjC19aOHz/mRFeMfsC8EblifEWI6O7N5ugNUI/Xafxfhod7iLhmzb3jn++ZDnCjO3UCc47hgxL2+1jGEY3w==
         selected: true
         status: Solved
-      - offset: 878
+      - offset: 1011
         length: 26
         placeholder_text: "# reshape and log the data"
         initial_state:
@@ -23,7 +23,7 @@ files:
         encrypted_possible_answer: KGcJ024nLlw9u+grgKXXkLpl59c3EsRFrJcNgFNyxWasaL2bAvmKdr7fCLl1o3modahPbQrS1hEA1aaR392UWdNvWsVJopkGcO7p6YuOP3EzsZAd8tvteLpLl5Da679DbAsRxMUK/KuIwHP2nNyqXFbOdkLuxK+HwsJcE2vMkfQjboI/bWfDSJDk+TyX6436
         selected: false
         status: Solved
-      - offset: 1024
+      - offset: 1043
         length: 15
         placeholder_text: "# fit the model"
         initial_state:
@@ -49,5 +49,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sat, 15 Aug 2026 12:39:03 UTC"
+  time: "Tue, 18 Aug 2026 13:35:12 UTC"
 record: -1
